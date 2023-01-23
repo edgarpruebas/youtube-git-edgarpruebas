@@ -2,4 +2,4 @@
 
 Hola soy Edgar y estoy tomando el curso de Janathan MirCha
 
-Agregando más contenido al _README_
+Agregando mas contenido al _README_
