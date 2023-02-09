@@ -1,0 +1,22 @@
+* e757583 Agregando 2 parrafos
+*   9e108c6 Merge branch 'main' of https://github.com/edgarbenz/youtube-git
+|\  
+| * 63b2898 Agregando las estaciones del año
+* | f3ed068 Agregando estaciones del año con fecha de inicio
+|/  
+*   b95f23f resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 30393fe Agregando index.js al index.html
+* | c8a63b6 Agregando style.css al index.html
+* |   112d9e1 Merge branch 'js'
+|\ \  
+| * | eb7f8e2 Creando archivo JS
+* | | 30a17a1 Creando style.css
+| |/  
+|/|   
+* | 4bc3399 Creando index.html
+|/  
+* d634b70 Ignorando archivos .exe
+* eaeab0a Creacion de licencia
+* b124143 Agregando mas contenido al README
+* 6ac1c33 Modificando el README

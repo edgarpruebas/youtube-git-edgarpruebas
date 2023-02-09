@@ -1,0 +1,92 @@
+commit e757583bdfa441f811f6635b2a0d212d7fe25394
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Wed Feb 8 17:52:53 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 9e108c6584422104739fe22a8e598fff6f4bc1fe
+Merge: f3ed068 63b2898
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Wed Feb 8 17:37:57 2023 -0600
+
+    Merge branch 'main' of https://github.com/edgarbenz/youtube-git
+
+commit f3ed06879d0c50139a83cba70f8e770f53c4c983
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Wed Feb 8 16:57:18 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 63b289847a50a0025da69324ab2e107b7f1fce3b
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Wed Feb 8 16:57:18 2023 -0600
+
+    Agregando las estaciones del año
+
+commit b95f23f250b397b525538a014ce6a4d699969d0b
+Merge: c8a63b6 30393fe
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Wed Feb 8 16:41:08 2023 -0600
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 30393fe43e2009d0bafc243625d10fcdea7bbaf5
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Wed Feb 8 16:13:06 2023 -0600
+
+    Agregando index.js al index.html
+
+commit c8a63b6b7f99b638803855888615b3055f13589e
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Tue Feb 7 23:31:02 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 112d9e174b81456250f852345a138ca38a6844fa
+Merge: 30a17a1 eb7f8e2
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Tue Feb 7 22:51:43 2023 -0600
+
+    Merge branch 'js'
+
+commit eb7f8e2f1e8048b9a0f3fc8eca99dd98e2aab512
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Mon Feb 6 19:43:43 2023 -0600
+
+    Creando archivo JS
+
+commit 30a17a1c2bc055463abe13e25d41bca3ba844da5
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Mon Feb 6 18:59:32 2023 -0600
+
+    Creando style.css
+
+commit 4bc3399d5f36bee85ab526443d833dadec3e79f3
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Mon Feb 6 17:43:29 2023 -0600
+
+    Creando index.html
+
+commit d634b70caad72aa88d1a411ab561502d00513519
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Sun Jan 22 21:09:37 2023 -0600
+
+    Ignorando archivos .exe
+
+commit eaeab0a8241843f32ece4932f689ceb6f1629ff1
+Author: Edgar Benzor <60890272+edgarbenz@users.noreply.github.com>
+Date:   Sat Jan 21 23:36:40 2023 -0600
+
+    Creacion de licencia
+
+commit b124143f67aa28f6a7d9e8367dd4a61f9e0ff737
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Sat Jan 21 23:25:56 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 6ac1c3395939816a4feb5ed17e89a5ed3fb9c653
+Author: Edgar Benzor <edgarbenz@hotmail.com>
+Date:   Sat Jan 21 18:43:18 2023 -0600
+
+    Modificando el README
