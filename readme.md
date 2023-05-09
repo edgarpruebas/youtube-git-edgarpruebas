@@ -1,6 +1,6 @@
 # Curso de _Git_ & _GitHub_
 
-Hola soy Edgar y estoy tomando el curso de Janathan MirCha
+Hola soy Edgar Benzor y estoy tomando el curso de Janathan MirCha
 
 Quiere dominar el uso de _git_ mira este [enlace](https://jonmircha.git)
 
